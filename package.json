@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "convert-source-map": "^1.1.1",
-    "espower-source": "^0.10.0",
+    "espower-source": "power-assert-js/espower-source#edebef228eb5b183b32d34c186014c48e7cce4bd",
     "xtend": "^4.0.0"
   }
 }
